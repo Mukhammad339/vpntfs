@@ -1,0 +1,9 @@
+{
+  "name": "v2box-sub-merger",
+  "version": "1.0.0",
+  "description": "Merges multiple V2Box/V2Ray subscriptions into one",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "functions": {
+    "api/sub.js": {
+      "maxDuration": 30
+    }
+  },
+  "routes": [
+    {
+      "src": "/sub",
+      "dest": "/api/sub.js"
+    },
+    {
+      "src": "/",
+      "dest": "/index.html"
+    }
+  ]
+}
